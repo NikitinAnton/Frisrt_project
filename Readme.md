@@ -23,12 +23,12 @@
 5) Создать модели МО и применить их;  
 6) Сделать вывод.
 
-![image](https://github.com/user-attachments/assets/5fc6a21a-e451-4843-a87e-f21cbfd44c87)
-
-
 Используемые модели:
 LogisticRegression
 
 Результат:
 Метрика лучшей модели на тренировочной выборке: 0.9035544049087013
 Метрика ROC-AUC на тестовой выборке: 0.8578643578643579
+
+коммиты:
+![image](https://github.com/user-attachments/assets/5fc6a21a-e451-4843-a87e-f21cbfd44c87)
